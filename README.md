@@ -1,0 +1,1 @@
+# Komprese-a-dekomprese-TGA-obrazku
