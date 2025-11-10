@@ -1,1 +1,1 @@
-# Komprese-a-dekomprese-TGA-obrazku
+# Termín odevzdání UPR projektu: 5.1.2026
